@@ -1,1 +1,1 @@
-alert('test complete');
+alert('coming to you live from a github repo');
